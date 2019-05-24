@@ -13,13 +13,19 @@ UCS2字符集字库 By _喵Plus_
 
 
 
-因官方已经更新了简体中文，此补丁只为个人使用，以官方中文为基础，使用 _喵Plus 汉化文本 以及后期修改润色版本
-替换了官方中文文本。
+因官方已经更新了简体中文，舍弃原字库覆盖汉化文件，
 
+此补丁以 _喵Plus 内核汉化文本 以及由 king19940104  , liangqihang ，jianjam后期修改润色版本为基础
 
+替换了官方中文内的文本显示。
+
+个人翻译，仅供学习以交流，转载请注明来源。
 
 **安装方式**：
-    下载json文件 替换掉
-        Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ror2_april_3_19-chinese_prc.json
-        
- 建议备份
+    下载json文件 ==>[ror2_april_3_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/RiskOfRian2-ChineseLocalization/master/ZH_CN/ror2_april_3_19-chinese_prc.json)       可使用右键-另存为
+    
+    替换掉
+            Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ror2_april_3_19-chinese_prc.json
+    文件
+    
+ 建议备份源文件 
