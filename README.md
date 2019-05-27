@@ -5,11 +5,15 @@
 由于 @_喵Plus_ 学业繁忙，无暇继续进行后续的更新，故由@king19940104 上传到github，由社区的大家一起来为雨中冒险2的汉化添砖加瓦，谢谢大家！
 
 
+
+
+
 汉化文本 By _喵Plus_
 
-字库附加MOD By _喵Plus_
+~~字库附加MOD By _喵Plus_~~
 
-UCS2字符集字库 By _喵Plus_
+~~UCS2字符集字库 By _喵Plus_~~
+
 
 
 
@@ -19,8 +23,10 @@ UCS2字符集字库 By _喵Plus_
 
 替换了官方中文内的文本显示。
 
-个人翻译，仅供学习以交流，转载请注明来源。
+个人翻译，仅供学习以交流。
 
+
+---
 **安装方式**：
     下载json文件 ==>[ror2_april_3_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/RiskOfRian2-ChineseLocalization/master/ZH_CN/ror2_april_3_19-chinese_prc.json)       可使用右键-另存为
     
@@ -29,3 +35,7 @@ UCS2字符集字库 By _喵Plus_
     文件
     
  建议备份源文件 
+
+
+
+已知BUG： 游戏界面左边友军单位列表的名称无法显示，疑是游戏字库问题，无法显示中文/日文等字符，英文/数字可以正常显示。
