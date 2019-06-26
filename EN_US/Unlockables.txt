@@ -29,7 +29,9 @@
 		"UNLOCKABLE_LOG_LEMURIANBRUISER" : "Monster Log: Elder Lemurian",
 		"UNLOCKABLE_LOG_HERMITCRAB" : "Monster Log: Hermit Crab",
 		"UNLOCKABLE_LOG_IMPBOSS" : "Monster Log: Imp Overlord",
-		"UNLOCKABLE_LOG_ELECTRICWORMBODY" : "Monster Log: Overloading Worm",
+		"UNLOCKABLE_LOG_ELECTRICWORM" : "Monster Log: Overloading Worm",
+		"UNLOCKABLE_LOG_CLAYBRUISER" : "Monster Log: Clay Templar",
+		"UNLOCKABLE_LOG_GRAVEKEEPER" : "Monster Log: Grovetender",
 
 		"UNLOCKABLE_BLUEPRINT_SHIELDONLY": "Blueprint: Transcendence",
 		"UNLOCKABLE_LOG_STAGES_BLACKBEACH": "Environment Log: Distant Roost",
@@ -39,6 +41,9 @@
 		"UNLOCKABLE_LOG_STAGES_FROZENWALL": "Environment Log: Rallypoint Delta",
 		"UNLOCKABLE_LOG_STAGES_FOGGYSWAMP": "Environment Log: Wetland Aspect",
 		"UNLOCKABLE_LOG_STAGES_DAMPCAVE": "Environment Log: Abyssal Depths",
-		"UNLOCKABLE_LOG_STAGES_MYSTERYSPACE" : "Environment Log: A Moment, Fractured"
+		"UNLOCKABLE_LOG_STAGES_WISPGRAVEYARD": "Environment Log: Scorched Acres",
+		"UNLOCKABLE_LOG_STAGES_MYSTERYSPACE" : "Environment Log: A Moment, Fractured",
+		"UNLOCKABLE_LOG_STAGES_GOLDSHORES" : "Environment Log: Gilded Coast",
+
 	}
 }

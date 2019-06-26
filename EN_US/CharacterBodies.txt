@@ -7,6 +7,7 @@
 	"ELITE_MODIFIER_FIRE": "Blazing {0}",
 	"ELITE_MODIFIER_LIGHTNING": "Overloading {0}",
 	"ELITE_MODIFIER_ICE": "Glacial {0}",
+	"ELITE_MODIFIER_POISON" : "Malachite {0}",
 
 	//[CHARACTER]
 	"COMMANDO_BODY_NAME": "Commando",
@@ -32,7 +33,6 @@
 	"MERC_DESCRIPTION" : "The Mercenary is a high skill melee survivor that uses his many dodges to weave in and out of combat.<style=cSub>\r\n\r\n< ! > Whirlwind's air variation can be used like an extra jump in a pinch.\r\n\r\n< ! > Getting repeated resets on Blinding Assault is key to increasing both survivability and damage output. However, you do not always need to try for resets \u2013 it may result in your death.\r\n\r\n< ! > Remember that Eviscerate is an extremely powerful defensive tool to dodge telegraphed attacks.\r\n\r\n< ! > Laser Sword deals a ton of damage in a wide area, which is unique for a basic attack.\r\n<\/style>\r\n",
 	"MERC_PASSIVE_NAME" : "Cybernetic Enhancements",
 	"MERC_PASSIVE_DESCRIPTION" : "The Mercenary can <style=cIsUtility>jump twice.</style>",
-
 	"ENGI_BODY_NAME": "Engineer",
 	"ENGI_PRIMARY_NAME": "Bouncing Grenades",
 	"ENGI_PRIMARY_DESCRIPTION" : "Charge up to <style=cIsDamage>8</style> grenades that deal <style=cIsDamage>100% damage</style> each.",
@@ -46,22 +46,24 @@
 	
 	"HUNTRESS_BODY_NAME": "Huntress",
 	"HUNTRESS_PRIMARY_NAME": "Strafe",
-	"HUNTRESS_PRIMARY_DESCRIPTION" : "Fire a seeking arrow for 150% damage. <i>Can be used while sprinting.</i>",
+	"HUNTRESS_PRIMARY_DESCRIPTION" : "Fire a seeking arrow for <style=cIsDamage>150% damage.</style> <i>Can be used while sprinting.</i>",
 	"HUNTRESS_SECONDARY_NAME": "Laser Glaive",
 	"HUNTRESS_SECONDARY_DESCRIPTION" : "Throw a seeking glaive that bounces up to <style=cIsDamage>6</style> times for <style=cIsDamage>250% damage</style>. Damage increases by <style=cIsDamage>10%</style> per bounce.",
 	"HUNTRESS_UTILITY_NAME": "Blink",
 	"HUNTRESS_UTILITY_DESCRIPTION" : "<style=cIsUtility>Disappear</style> and <style=cIsUtility>teleport</style> forward.",
 	"HUNTRESS_SPECIAL_NAME": "Arrow Rain",
 	"HUNTRESS_SPECIAL_DESCRIPTION" : "Teleport into the sky. Target an area to rain arrows, <style=cIsUtility>slowing</style> all enemies and dealing <style=cIsDamage>225% damage per second.</style>",
-	"HUNTRESS_DESCRIPTION": "The Huntress is an extremely mobile but fragile survivor with a high damage output. <style=cSub>\r\n\r\n< ! > Remember that Strafe can be uniquely be used while sprinting, allowing you to move at high speeds while still taking out potential threats.\r\n\r\n< ! > Blink and Arrow Rain can be used to reposition closer or used as a dodge in a tight spot.\r\n\r\n< ! > Laser Glaive will take out pairs of tough targets quickly as it bounces between the two. \r\n\r\n< ! > Arrow Rain has extremely high damage output and also slows enemies inside, making it great for tough, fast enemies.<\/style>\r\n",
+	"HUNTRESS_DESCRIPTION": "The Huntress is an extremely mobile but fragile survivor with a high damage output. <style=cSub>\r\n\r\n< ! > Remember that Strafe can be uniquely used while sprinting, allowing you to move at high speeds while still taking out potential threats.\r\n\r\n< ! > Blink and Arrow Rain can be used to reposition closer or used as a dodge in a tight spot.\r\n\r\n< ! > Laser Glaive will take out pairs of tough targets quickly as it bounces between the two. \r\n\r\n< ! > Arrow Rain has extremely high damage output and also slows enemies inside, making it great for tough, fast enemies.<\/style>\r\n",
 
 	"MAGE_BODY_NAME": "Artificer",
+	"MAGE_PASSIVE_NAME" : "ENV Suit",
+	"MAGE_PASSIVE_DESCRIPTION" : "Holding the Jump key causes the Artificer to <style=cIsUtility>hover in the air.</style>",
 	"MAGE_PRIMARY_NAME" : "Flame Bolt",
 	"MAGE_PRIMARY_DESCRIPTION" : "Fire a bolt for <style=cIsDamage>200% damage</style> that <style=cIsDamage>ignites</style> enemies. Hold up to 4.</style>",
 	"MAGE_SECONDARY_LIGHTNING_NAME": "Charged Nano-Bomb",
 	"MAGE_SECONDARY_LIGHTNING_DESCRIPTION" : "Charge up a nano-bomb that deals <style=cIsDamage>400%-1200%</style> damage and <style=cIsDamage>stuns</style> all enemies.",
 	"MAGE_UTILITY_ICE_NAME": "Snapfreeze",
-	"MAGE_UTILITY_ICE_DESCRIPTION" : "Create a barrier that <style=cIsUtility>freezes</style> enemies for 100% damage. Enemies at low health are <style=cIsDamage>instantly killed</style> if frozen.",
+	"MAGE_UTILITY_ICE_DESCRIPTION" : "Create a barrier that <style=cIsUtility>freezes</style> enemies for <style=cIsDamage>100% damage.</style> Enemies at low health are <style=cIsDamage>instantly killed</style> if frozen.",
 	"MAGE_SPECIAL_FIRE_NAME": "Flamethrower",
 	"MAGE_SPECIAL_FIRE_DESCRIPTION" : "Burn all enemies in front of you for <style=cIsDamage>1700% damage.</style>",
 	"MAGE_DESCRIPTION": "The Artificer is a high burst damage survivor who excels in fighting large groups and bosses alike. <style=cSub>\r\n\r\n< ! > Flame Bolt expends stocks quickly but recharges slowly - try to weave in basic attacks between skill casts.\r\n\r\n< ! > Direct hits of Charged Nano-Bomb can turn the tide of an otherwise losing battle. \r\n\r\n< ! > Frozen enemies are executed at low health, making it great to eliminate tanky enemies.\r\n\r\n< ! > Remember that the Artificer has NO defensive skills - positioning and defensive items are key! <\/style>\r\n",
@@ -81,6 +83,21 @@
 	"TOOLBOT_SPECIAL_DESCRIPTION" : "Switches his primary fire between the rapid <style=cIsDamage>Auto-Nailgun</style> and a piercing heavy-damage <style=cIsDamage>Rebar Puncher</style>.",
 	"TOOLBOT_DESCRIPTION": "MUL-T is an aggressive survivor who has the tools necessary for any job! <style=cSub>\r\n\r\n< ! > Auto-Nailgun has an extremely high damage output, but has a short range, making it risky but strong.\r\n\r\n< ! > Transport Mode can be both a great tool to run down small groups of monsters, or pack a big punch against larger ones. \r\n\r\n< ! > Blast Canister can lock down a large cluster of enemies for a long time, helping line up that perfect shot for both you and your allies.\r\n\r\n< ! > Constantly Retooling can help eliminate fragile and weak enemies with Rebar Puncher while still keeping damage output high with Auto-Nailgun. <\/style>\r\n",
 	
+
+	"TREEBOT_BODY_NAME": "REX",
+	"TREEBOT_PASSIVE_NAME" : "Natural Toxins",
+	"TREEBOT_PASSIVE_DESCRIPTION" : "Certain attacks <style=cIsDamage>Weaken</style>, reducing movement speed, armor, and damage.",
+	"TREEBOT_PRIMARY_NAME": "DIRECTIVE: Inject",
+	"TREEBOT_PRIMARY_DESCRIPTION" : "Fire 3 syringes for <style=cIsDamage>3x80% damage</style>. The last syringe <style=cIsDamage>Weakens</style> and <style=cIsHealing>heals for 30% of damage dealt.</style>",
+	"TREEBOT_SECONDARY_NAME": "Seed Barrage",
+	"TREEBOT_SECONDARY_DESCRIPTION" : "<style=cIsHealth>Costs 15% of your current health.</style> Launch a mortar into the sky for <style=cIsDamage>450% damage</style>.",
+	"TREEBOT_UTILITY_NAME": "DIRECTIVE: Disperse",
+	"TREEBOT_UTILITY_DESCRIPTION" : "Fire a sonic boom that <style=cIsUtility>pushes</style> and <style=cIsDamage>Weakens</style> all enemies hit. <style=cIsUtility>Pushes you backwards</style> if you are airborne.",
+	"TREEBOT_SPECIAL_NAME": "Tangling Growth",
+	"TREEBOT_SPECIAL_DESCRIPTION" : "<style=cIsHealth>Costs 25% of your current health.</style> Fire a flower that <style=cIsDamage>roots</style> for <style=cIsDamage>200% damage</style>. <style=cIsHealing>Heals for every target hit.</style>",
+	"TREEBOT_DESCRIPTION": "REX is a half robot / half plant that uses HP to cast devastating skills from a distance. The plant nor the robot could survive this planet alone \u2013 but thankfully they have each other. <style=cSub>\r\n\r\n< ! > Natural Toxins is important to reducing the strength of strong enemies for both you and your allies.\r\n\r\n< ! > Seed Barrage can be used from any range and has a very low cooldown. Just make sure to watch your HP!\r\n\r\n< ! > DIRECTIVE: Disperse can be used to knock enemies away. It can also push flying monsters into walls to kill them.\r\n\r\n< ! > A well-aimed Tangling Growth can keep REX in the fight forever. Rooting multiple monsters will guarantee you recover the initial HP costs. <style=cSub>\r\n",
+
+
 	"BANDIT_BODY_NAME": "Bandit",
 	"HAND_BODY_NAME": "HAN-D",
 	"ENFORCER_BODY_NAME": "Enforcer",
@@ -100,6 +117,7 @@
 	"CLAY_BODY_NAME" : "Clay Man",
 	"HERMIT_CRAB_BODY_NAME" : "Hermit Crab",
 	"BELL_BODY_NAME" : "Brass Contraption",
+	"CLAYBRUISER_BODY_NAME": "Clay Templar",
 
 	//[BOSS]
 	"BEETLEQUEEN_BODY_NAME": "Beetle Queen",
@@ -118,12 +136,16 @@
 	"ELECTRICWORM_BODY_SUBTITLE": "The Reminder",
 	"IMPBOSS_BODY_NAME": "Imp Overlord",
 	"IMPBOSS_BODY_SUBTITLE": "Lord of the Red Plane",
+	"GRAVEKEEPER_BODY_NAME": "Grovetender",
+	"GRAVEKEEPER_BODY_SUBTITLE": "Wisp Cultivator",
 	//[DRONE]
 	"DRONE_GUNNER_BODY_NAME": "Gunner Drone",
 	"DRONE_HEALING_BODY_NAME": "Healing Drone",
 	"DRONE_BACKUP_BODY_NAME": "Strike Drone",
 	"DRONE_MISSILE_BODY_NAME": "Missile Drone",
 	"DRONE_MEGA_BODY_NAME": "TC-280 Prototype",
+	"EQUIPMENTDRONE_BODY_NAME" : "Equipment Drone",
+	"FLAMEDRONE_BODY_NAME" : "Incinerator Drone",
 
 	//[INTERACTORS/BODY]
 	"TURRET1_BODY_NAME": "Gunner Turret",
@@ -134,5 +156,6 @@
 	"SQUIDTURRET_BODY_NAME": "Squid Turret",
 	"POTMOBILE_BODY_NAME": "Potmobile",
 	"SHOPKEEPER_BODY_NAME": "Newt",
+	"URCHINTURRET_BODY_NAME" : "Malachite Urchin",
 	}
 }

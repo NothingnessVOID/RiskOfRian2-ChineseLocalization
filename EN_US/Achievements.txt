@@ -118,8 +118,22 @@
 		"ACHIEVEMENT_COMPLETE30STAGESCAREER_NAME": "Engineering Perfection",
 		"ACHIEVEMENT_COMPLETE30STAGESCAREER_DESCRIPTION": "Complete 30 stages.",
 		
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_NAME": "Blackout",
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_DESCRIPTION": "Defeat the guardian of Gilded Coast without any beacons deactivating.",
+		
+		"ACHIEVEMENT_KILLELITESMILESTONE_NAME": "Cut Down",
+		"ACHIEVEMENT_KILLELITESMILESTONE_DESCRIPTION": "Defeat 500 elite monsters.",
+		
+		"ACHIEVEMENT_MULTICOMBATSHRINE_NAME": "Warmonger",
+		"ACHIEVEMENT_MULTICOMBATSHRINE_DESCRIPTION": "Complete 3 Combat Shrines in a single stage.",
+		
+		"ACHIEVEMENT_USETHREEPORTALS_NAME": "Cosmic Explorer",
+		"ACHIEVEMENT_USETHREEPORTALS_DESCRIPTION": "Discover and enter three unique portals.",
+		
+		"ACHIEVEMENT_RESCUETREEBOT_NAME": "Power Plant",
+		"ACHIEVEMENT_RESCUETREEBOT_DESCRIPTION": "Repair the broken robot with an Escape Pod's Fuel Array.",
+
 		"ACHIEVEMENT__NAME": "",
 		"ACHIEVEMENT__DESCRIPTION": "",
-
 	}
 }

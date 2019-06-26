@@ -119,7 +119,7 @@
 		"LEADERBOARDS_FRIENDS" : "FRIENDS",
 
 		"PROFILE_TITLE" : "Select a Profile",
-		"PROFILE_CREATE_NEW" : "Create New..."
+		"PROFILE_CREATE_NEW" : "Create New...",
 		"PROFILE_ENTER" : "Enter",
 		"PROFILE_SELECT" : "Select",
 		"PROFILE_DEL" : "Del",
@@ -131,5 +131,12 @@
 		"PAUSE_SETTINGS" : "Settings",
 		"PAUSE_QUIT_TO_MENU" : "Quit To Menu",
 		"PAUSE_QUIT_TO_DESKTOP" : "Quit To Desktop",
+		
+		"SPECTATING_NAME_FORMAT" : "Spectating: {0}",
+		
+		"QUIT_RUN_CONFIRM_DIALOG_TITLE": "End Run?",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_SINGLEPLAYER": "Are you sure you want to end this run?",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_CLIENT": "Are you sure you want to leave this run? You will be leaving your teammates behind.",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_HOST": "You are the host of this game, and quitting now will <style=cDeath>end the game for all other players</style>. Are you really sure you want to quit?",
 	}
 }

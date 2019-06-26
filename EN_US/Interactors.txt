@@ -3,7 +3,7 @@
 	{
 	//[INTERACTABLES],
 	"SURVIVOR_POD_HATCH_OPEN_CONTEXT": "Exit Escape Pod",
-
+	"SURVIVOR_POD_OPEN_PANEL_CONTEXT" : "Open Panel",
 	"TELEPORTER_NAME": "Teleporter",
 	"TELEPORTER_BEGIN_CONTEXT": "Activate Teleporter..?",
 	"TELEPORTER_END_CONTEXT": "Enter Teleporter",
@@ -77,6 +77,14 @@
 	"MSOBELISK_CONTEXT" : "Obliterate yourself from existence",
 	"MSOBELISK_CONTEXT_CONFIRMATION" : "Are you sure?",
 
+	"CATEGORYCHEST_HEALING_NAME": "Chest - Healing",
+	"CATEGORYCHEST_HEALING_CONTEXT": "Open Chest - Healing",
+
+	"CATEGORYCHEST_DAMAGE_NAME": "Chest - Damage",
+	"CATEGORYCHEST_DAMAGE_CONTEXT": "Open Chest - Damage",
+
+	"CATEGORYCHEST_UTILITY_NAME": "Chest - Utility)",
+	"CATEGORYCHEST_UTILITY_CONTEXT": "Open Chest - Utility",
 
 	//[SHRINES],
 	"SHRINE_HEALING_NAME": "Shrine of the Woods",
@@ -116,8 +124,8 @@
 	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>You have summoned {1}s to fight.</color>",
 	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} has summoned {1}s to fight.</color>",
 
-	"GOLDTOTEM_NAME": "Halycon Beacon",
-	"GOLDTOTEM_CONTEXT": "Rebuild Halycon Beacon",
+	"GOLDTOTEM_NAME": "Halcyon Beacon",
+	"GOLDTOTEM_CONTEXT": "Rebuild Halcyon Beacon",
 
 	//MISC
 	"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
@@ -125,7 +133,9 @@
 
 	"LOCKEDMAGE_NAME" : "Survivor",
 	"LOCKEDMAGE_CONTEXT" : "Free the survivor",
-
+		
+	"LOCKEDTREEBOT_NAME" : "Broken Robot",
+	"LOCKEDTREEBOT_CONTEXT" : "Repair",
 	//[DRONES],
 	"DRONE_GUNNER_INTERACTABLE_NAME": "Broken Gunner Drone",
 	"DRONE_GUNNER_CONTEXT": "Repair Gunner Drone",
@@ -139,13 +149,36 @@
 	"DRONE_MISSILE_INTERACTABLE_NAME": "Broken Missile Drone",
 	"DRONE_MISSILE_CONTEXT": "Repair Missile Drone",
 
+	"EQUIPMENTDRONE_INTERACTABLE_NAME" : "Broken Equipment Drone",
+	"EQUIPMENTDRONE_CONTEXT" : "Repair Equipment Drone",
+
+	"FLAMEDRONE_INTERACTABLE_NAME" : "Broken Incinerator Drone",
+	"FLAMEDRONE_CONTEXT" : "Repair Incinerator Drone",
+
 	//[TURRETS],
 	"TURRET1_INTERACTABLE_NAME": "Broken Gunner Turret",
 	"TURRET1_CONTEXT": "Repair Gunner Turret",
 
+	"PORTAL_SHOP_NAME" : "Blue Portal",
+	"PORTAL_SHOP_CONTEXT": "Enter Blue Portal",
+	"PORTAL_GOLDSHORES_NAME" : "Gold Portal",
+	"PORTAL_GOLDSHORES_CONTEXT": "Enter Gold Portal",
+	"PORTAL_MYSTERYSPACE_NAME" : "Celestial Portal",
+	"PORTAL_MYSTERYSPACE_CONTEXT": "Enter Celestial Portal",
+
 	"PORTAL_GENERIC_CONTEXT": "Enter Portal",
+	"ZIPLINE_ENTER_CONTEXT" : "Enter Quantum Tunnel",
+	"ZIPLINE_EXIT_CONTEXT" : "Exit Quantum Tunnel",
 
 	"PICKUP_LUNAR_COIN": "Lunar Coin",
 	"LUNAR_COIN_PICKUP_CONTEXT": "Pick up Lunar Coin",
+	
+	"COST_NONE_FORMAT": "",
+	"COST_MONEY_FORMAT": "${0}",
+	"COST_PERCENTHEALTH_FORMAT": "{0}% HP",
+	"COST_LUNAR_FORMAT": "{0} Lunar",
+	"COST_ITEM_FORMAT": "{0} Items",
+	"COST_EQUIPMENT_FORMAT": "{0} Equipment",
+	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
 	}
 }
