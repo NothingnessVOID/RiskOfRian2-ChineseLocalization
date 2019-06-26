@@ -28,7 +28,7 @@
 
 ---
 **安装方式**：
-    下载json文件 ==>[ror2_april_3_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/RiskOfRian2-ChineseLocalization/master/ZH_CN/ror2_april_3_19-chinese_prc.json)       可使用右键-另存为
+    下载json文件 ==>[ror2_june_6_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/RiskOfRian2-ChineseLocalization/master/ZH_CN/ror2_june_6_19-chinese_prc.json)       可使用右键-另存为
     
     替换掉
             Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ror2_april_3_19-chinese_prc.json
